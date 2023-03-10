@@ -1,0 +1,13 @@
+<?
+	$nowDate = new DateTime();//오늘 날짜
+	$modDate = new DateTime("20210207");//비교할 날짜
+	$dateDiff = $nowDate->diff($modDate);
+
+	if($dateDiff->days >= 90){
+		echo "90일 경과";
+	}
+	else{
+		echo "90일 미경과";
+	}
+?>
+ <img src='/sian/sian_1.jpg'> 

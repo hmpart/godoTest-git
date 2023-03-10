@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="hmpartner.godomall.com" id="7fc1a270-6c5d-4cc1-b7ba-cbcbcb4d29f7" port="17662" nameFormat="DESCRIPTIVE" username="hmpartner" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>
